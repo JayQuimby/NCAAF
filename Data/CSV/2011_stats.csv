@@ -1,0 +1,2499 @@
+air-force,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13             9.5          15.7                    60.3      140.1   
+1    13            14.9          23.8                    62.8      166.8   
+2                  -5.4          -8.1                    -2.5      -26.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         55.6      314.8           5.7     3.3  ...           6.4   
+1     1.6         44.3      219.7           5.0     1.8  ...           5.7   
+2    -0.4        +11.3      +95.1          +0.7    +1.5  ...          +0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.0            15.7           1.5        23.2     4.7   
+1             8.1            11.9           1.0        21.0     6.5   
+2            -2.1            +3.8          +0.5        +2.2    -1.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.2         1.4           0.6       2.0  
+1          57.1         1.1           0.9       2.0  
+2         -13.9        +0.3          -0.3       0.0  
+
+[3 rows x 22 columns]"
+akron,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            14.3          31.3                    45.5      163.3   
+1    12            16.1          25.5                    63.1      207.6   
+2                  -1.8          +5.8                   -17.6      -44.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         34.4      114.4           3.3     0.6  ...           4.2   
+1     1.9         44.6      219.6           4.9     2.8  ...           6.1   
+2    -0.9        -10.2     -105.2          -1.6    -2.2  ...          -1.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.6             6.8           1.5        15.8     5.3   
+1             9.9            11.1           1.0        22.0     5.8   
+2            -2.3            -4.3          +0.5        -6.2    -0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.6         1.1           0.9       2.0  
+1          56.0         1.1           0.2       1.3  
+2         -12.4         0.0          +0.7      +0.7  
+
+[3 rows x 22 columns]"
+alabama,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.2          27.5                    66.4      215.2   
+1    13            12.6          25.7                    49.1      111.5   
+2                  +5.6          +1.8                   +17.3     +103.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         39.1      214.5           5.5     2.6  ...           6.5   
+1     0.5         29.7       72.2           2.4     0.2  ...           3.3   
+2    +0.7         +9.4     +142.3          +3.1    +2.4  ...          +3.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.4            10.3           0.8        21.5     3.8   
+1             4.8             4.4           0.8        10.1     4.5   
+2            +5.6            +5.9           0.0       +11.4    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          31.5         0.3           0.6       0.9  
+1          34.8         0.5           1.0       1.5  
+2          -3.3        -0.2          -0.4      -0.6  
+
+[3 rows x 22 columns]"
+arizona,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            33.2          48.1                    69.0      370.8   
+1    12            23.5          35.7                    65.9      298.9   
+2                  +9.7         +12.4                    +3.1      +71.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.4         27.6       94.5           3.4     1.4  ...           6.1   
+1     1.8         34.3      161.6           4.7     2.5  ...           6.6   
+2    +0.6         -6.7      -67.1          -1.3    -1.1  ...          -0.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            16.9             6.5           2.3        25.8     7.9   
+1            13.2             7.3           2.5        23.0     7.2   
+2            +3.7            -0.8          -0.2        +2.8    +0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          65.5         0.5           1.3       1.8  
+1          67.3         0.4           0.9       1.3  
+2          -1.8        +0.1          +0.4      +0.5  
+
+[3 rows x 22 columns]"
+arizona-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            25.6          40.5                    63.2      316.7   
+1    13            22.8          34.6                    65.8      273.0   
+2                  +2.8          +5.9                    -2.6      +43.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.1         32.5      129.1           4.0     1.8  ...           6.1   
+1     1.6         35.0      149.1           4.3     1.6  ...           6.1   
+2    +0.5         -2.5      -20.0          -0.3    +0.2  ...           0.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            14.2             7.1           2.5        23.8     8.0   
+1            11.7             7.3           2.5        21.5     7.9   
+2            +2.5            -0.2           0.0        +2.3    +0.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          79.8         0.8           1.0       1.8  
+1          72.4         1.3           1.2       2.5  
+2          +7.4        -0.5          -0.2      -0.7  
+
+[3 rows x 22 columns]"
+arkansas,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            23.0          36.2                    63.5      300.7   
+1    13            17.8          31.3                    57.0      195.2   
+2                  +5.2          +4.9                    +6.5     +105.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.0         31.7      137.4           4.3     1.9  ...           6.4   
+1     0.9         38.8      167.6           4.3     1.6  ...           5.2   
+2    +1.1         -7.1      -30.2           0.0    +0.3  ...          +1.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.8             7.2           1.5        21.5     6.2   
+1             9.2             8.3           1.3        18.8     6.2   
+2            +3.6            -1.1          +0.2        +2.7     0.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.6         1.0           0.5       1.5  
+1          51.2         0.7           0.9       1.6  
+2          -5.6        +0.3          -0.4      -0.1  
+
+[3 rows x 22 columns]"
+arkansas-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            25.1          38.5                    65.2      293.6   
+1    13            20.7          36.5                    56.6      227.9   
+2                  +4.4          +2.0                    +8.6      +65.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         39.7      154.2           3.9     1.9  ...           5.7   
+1     1.5         34.5      103.5           3.0     0.9  ...           4.7   
+2    +0.1         +5.2      +50.7          +0.9    +1.0  ...          +1.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.0             9.2           1.2        23.4     6.9   
+1             9.2             6.8           2.1        18.1     6.2   
+2            +3.8            +2.4          -0.9        +5.3    +0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          60.4         0.8           1.2       2.1  
+1          48.1         0.8           1.5       2.2  
+2         +12.3         0.0          -0.3      -0.1  
+
+[3 rows x 22 columns]"
+army,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12             3.1           8.1                    38.1       50.4   
+1    12            11.8          20.4                    57.6      164.3   
+2                  -8.7         -12.3                   -19.5     -113.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.4         61.7      346.5           5.6     2.9  ...           5.7   
+1     1.6         40.1      194.9           4.9     2.0  ...           5.9   
+2    -1.2        +21.6     +151.6          +0.7    +0.9  ...          -0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             2.3            18.2           0.8        21.2     4.1   
+1             6.8            10.8           1.1        18.8     4.8   
+2            -4.5            +7.4          -0.3        +2.4    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          36.3         1.8           0.3       2.2  
+1          37.5         0.8           0.7       1.4  
+2          -1.2        +1.0          -0.4      +0.8  
+
+[3 rows x 22 columns]"
+auburn,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            12.6          22.5                    56.2      155.5   
+1    13            19.2          30.4                    63.3      218.8   
+2                  -6.6          -7.9                    -7.1      -63.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         41.2      182.3           4.4     1.5  ...           5.3   
+1     1.8         40.8      189.2           4.6     1.5  ...           5.7   
+2    -0.5         +0.4       -6.9          -0.2     0.0  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.6             9.9           0.9        17.5     5.8   
+1            10.4            10.6           1.4        22.4     5.5   
+2            -3.8            -0.7          -0.5        -4.9    +0.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          52.0         0.6           1.0       1.6  
+1          41.5         0.9           0.8       1.8  
+2         +10.5        -0.3          +0.2      -0.2  
+
+[3 rows x 22 columns]"
+ball-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            24.4          38.3                    63.7      241.0   
+1    12            20.5          30.8                    66.7      284.3   
+2                  +3.9          +7.5                    -3.0      -43.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         33.3      138.4           4.2     1.4  ...           5.3   
+1     2.4         44.6      226.0           5.1     1.8  ...           6.8   
+2    -0.8        -11.3      -87.6          -0.9    -0.4  ...          -1.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.7             7.4           1.9        21.0     4.5   
+1            12.7            12.3           1.0        25.9     7.0   
+2            -1.0            -4.9          +0.9        -4.9    -2.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          35.5         0.6           0.9       1.5  
+1          72.3         0.6           0.8       1.4  
+2         -36.8         0.0          +0.1      +0.1  
+
+[3 rows x 22 columns]"
+baylor,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            23.6          32.6                    72.4      351.5   
+1    13            24.2          38.1                    63.6      291.1   
+2                  -0.6          -5.5                    +8.8      +60.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     3.1         44.3      235.6           5.3     2.8  ...           7.6   
+1     2.8         38.2      197.4           5.2     2.2  ...           6.4   
+2    +0.3         +6.1      +38.2          +0.1    +0.6  ...          +1.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.5            13.5           2.0        29.0     7.1   
+1            12.5             9.8           2.2        24.5     7.1   
+2            +1.0            +3.7          -0.2        +4.5     0.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          64.5         1.4           0.5       1.8  
+1          60.2         1.0           1.2       2.2  
+2          +4.3        +0.4          -0.7      -0.4  
+
+[3 rows x 22 columns]"
+boise-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            27.1          36.7                    73.8      309.4   
+1    13            17.5          30.8                    56.9      210.8   
+2                  +9.6          +5.9                   +16.9      +98.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     3.5         37.8      171.9           4.5     2.4  ...           6.5   
+1     1.6         31.2      110.0           3.5     0.7  ...           5.2   
+2    +1.9         +6.6      +61.9          +1.0    +1.7  ...          +1.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            15.5             8.3           1.8        25.7     5.3   
+1             8.1             6.0           1.8        15.9     7.0   
+2            +7.4            +2.3           0.0        +9.8    -1.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          47.2         0.6           0.8       1.4  
+1          61.7         0.8           1.2       2.0  
+2         -14.5        -0.2          -0.4      -0.6  
+
+[3 rows x 22 columns]"
+boston-college,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            14.4          27.0                    53.4      167.8   
+1    12            22.1          35.0                    63.1      243.3   
+2                  -7.7          -8.0                    -9.7      -75.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         36.4      130.9           3.6     1.0  ...           4.7   
+1     0.7         35.4      151.1           4.3     1.8  ...           5.6   
+2    +0.3         +1.0      -20.2          -0.7    -0.8  ...          -0.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.6             6.4           0.9        15.9     4.2   
+1            11.2             7.6           0.9        19.7     4.7   
+2            -2.6            -1.2           0.0        -3.8    -0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          34.5         0.8           0.8       1.7  
+1          38.5         0.3           1.1       1.3  
+2          -4.0        +0.5          -0.3      +0.4  
+
+[3 rows x 22 columns]"
+bowling-green-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            21.2          35.7                    59.3      261.6   
+1    12            17.3          30.5                    56.6      202.6   
+2                  +3.9          +5.2                    +2.7      +59.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.3         33.5      122.9           3.7     1.1  ...           5.6   
+1     1.2         41.3      203.4           4.9     2.0  ...           5.7   
+2    +1.1         -7.8      -80.5          -1.2    -0.9  ...          -0.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.9             6.8           0.8        19.5     4.8   
+1             9.4            10.3           1.3        21.0     6.3   
+2            +2.5            -3.5          -0.5        -1.5    -1.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          42.1         1.2           1.2       2.3  
+1          51.8         0.8           0.5       1.3  
+2          -9.7        +0.4          +0.7      +1.0  
+
+[3 rows x 22 columns]"
+buffalo,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            19.7          35.2                    55.9      210.2   
+1    12            15.8          26.7                    59.1      203.7   
+2                  +3.9          +8.5                    -3.2       +6.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         36.3      155.0           4.3     1.8  ...           5.1   
+1     2.1         42.4      181.2           4.3     1.8  ...           5.6   
+2    -1.1         -6.1      -26.2           0.0     0.0  ...          -0.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.8             8.3           1.8        19.8     5.6   
+1             9.3             8.6           0.8        18.8     5.0   
+2            +0.5            -0.3          +1.0        +1.0    +0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          54.4         0.5           0.8       1.3  
+1          46.3         0.6           0.5       1.1  
+2          +8.1        -0.1          +0.3      +0.2  
+
+[3 rows x 22 columns]"
+brigham-young,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            20.2          35.7                    56.5      245.4   
+1    13            19.2          33.2                    57.9      200.9   
+2                  +1.0          +2.5                    -1.4      +44.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.2         38.0      160.3           4.2     1.2  ...           5.5   
+1     1.0         30.8      112.5           3.7     1.2  ...           4.9   
+2    +1.2         +7.2      +47.8          +0.5     0.0  ...          +0.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.2             9.5           1.8        23.5     5.8   
+1             8.9             5.5           1.9        16.4     5.7   
+2            +3.3            +4.0          -0.1        +7.1    +0.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          50.2         0.9           1.2       2.1  
+1          44.6         0.9           1.0       1.9  
+2          +5.6         0.0          +0.2      +0.2  
+
+[3 rows x 22 columns]"
+california,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.9          33.8                    55.9      246.6   
+1    13            17.2          30.5                    56.4      204.2   
+2                  +1.7          +3.3                    -0.5      +42.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         37.2      154.8           4.2     1.9  ...           5.6   
+1     1.5         34.0      128.7           3.8     1.3  ...           5.2   
+2    -0.2         +3.2      +26.1          +0.4    +0.6  ...          +0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.2             7.8           2.5        21.5     7.5   
+1             7.8             7.5           2.0        17.4     7.5   
+2            +3.4            +0.3          +0.5        +4.1     0.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          72.4         0.9           0.9       1.8  
+1          66.6         0.8           0.9       1.8  
+2          +5.8        +0.1           0.0       0.0  
+
+[3 rows x 22 columns]"
+central-michigan,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            21.5          38.2                    56.3      274.2   
+1    12            19.1          31.2                    61.2      241.8   
+2                  +2.4          +7.0                    -4.9      +32.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.1         27.8      115.8           4.2     0.6  ...           5.9   
+1     2.0         41.2      187.0           4.5     1.9  ...           5.9   
+2    +0.1        -13.4      -71.2          -0.3    -1.3  ...           0.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.1             6.5           1.1        19.7     4.7   
+1            10.9             9.1           1.7        21.7     5.3   
+2            +1.2            -2.6          -0.6        -2.0    -0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          46.7         0.4           1.5       1.9  
+1          47.2         0.3           0.7       0.9  
+2          -0.5        +0.1          +0.8      +1.0  
+
+[3 rows x 22 columns]"
+cincinnati,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            17.2          30.2                    56.9      207.2   
+1    13            22.4          37.2                    60.2      261.2   
+2                  -5.2          -7.0                    -3.3      -54.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         38.5      178.5           4.6     2.2  ...           5.6   
+1     1.3         35.1       96.2           2.7     0.8  ...           4.9   
+2    +0.2         +3.4      +82.3          +1.9    +1.4  ...          +0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.8             9.0           1.8        19.6     5.2   
+1            11.4             6.5           1.2        19.1     7.8   
+2            -2.6            +2.5          +0.6        +0.5    -2.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          46.7         0.5           1.1       1.6  
+1          64.7         1.3           1.2       2.5  
+2         -18.0        -0.8          -0.1      -0.9  
+
+[3 rows x 22 columns]"
+clemson,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            22.2          37.5                    59.2      282.3   
+1    14            17.4          29.8                    58.3      217.5   
+2                  +4.8          +7.7                    +0.9      +64.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.4         37.9      158.5           4.2     1.6  ...           5.8   
+1     1.9         40.6      176.9           4.4     1.5  ...           5.6   
+2    +0.5         -2.7      -18.4          -0.2    +0.1  ...          +0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.0             8.2           1.3        22.5     4.4   
+1             9.2             9.4           1.6        20.2     5.6   
+2            +3.8            -1.2          -0.3        +2.3    -1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          40.1         0.9           0.9       1.7  
+1          50.1         0.6           1.0       1.6  
+2         -10.0        +0.3          -0.1      +0.1  
+
+[3 rows x 22 columns]"
+colorado,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.2          34.6                    55.6      237.6   
+1    13            20.8          31.8                    65.5      255.4   
+2                  -1.6          +2.8                    -9.9      -17.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         30.8      108.7           3.5     0.8  ...           5.3   
+1     2.6         34.9      183.9           5.3     2.0  ...           6.6   
+2    -1.0         -4.1      -75.2          -1.8    -1.2  ...          -1.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.4             6.2           1.9        18.5     7.9   
+1            11.9             9.8           1.9        23.6     6.7   
+2            -1.5            -3.6           0.0        -5.1    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          66.6         0.6           0.8       1.5  
+1          71.0         0.6           0.5       1.2  
+2          -4.4         0.0          +0.3      +0.3  
+
+[3 rows x 22 columns]"
+colorado-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            17.3          28.7                    60.5      184.6   
+1    12            15.1          24.4                    61.8      179.6   
+2                  +2.2          +4.3                    -1.3       +5.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         37.7      166.8           4.4     1.4  ...           5.3   
+1     1.6         42.5      233.7           5.5     2.3  ...           6.2   
+2    -0.6         -4.8      -66.9          -1.1    -0.9  ...          -0.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.4             9.2           1.8        18.3     6.8   
+1             8.1            11.4           1.4        20.9     5.5   
+2            -0.7            -2.2          +0.4        -2.6    +1.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          60.8         1.0           1.2       2.2  
+1          56.3         1.2           0.7       1.8  
+2          +4.5        -0.2          +0.5      +0.4  
+
+[3 rows x 22 columns]"
+connecticut,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            15.2          29.9                    50.7      194.7   
+1    12            20.7          35.8                    57.8      281.0   
+2                  -5.5          -5.9                    -7.1      -86.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         38.8      118.5           3.1     1.1  ...           4.6   
+1     1.8         32.1       85.7           2.7     0.9  ...           5.4   
+2    -0.6         +6.7      +32.8          +0.4    +0.2  ...          -0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.0             6.7           1.7        17.3     5.3   
+1            11.3             5.7           1.0        17.9     8.0   
+2            -2.3            +1.0          +0.7        -0.6    -2.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          41.8         1.2           0.8       1.9  
+1          68.3         1.1           1.5       2.6  
+2         -26.5        +0.1          -0.7      -0.7  
+
+[3 rows x 22 columns]"
+duke,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            26.3          41.1                    63.9      272.2   
+1    12            16.2          28.2                    57.4      244.8   
+2                 +10.1         +12.9                    +6.5      +27.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         30.4       94.1           3.1     1.6  ...           5.1   
+1     1.9         36.8      180.7           4.9     1.8  ...           6.6   
+2    -0.6         -6.4      -86.6          -1.8    -0.2  ...          -1.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.0             5.6           2.0        19.6     4.7   
+1             9.8             9.3           1.0        20.2     5.7   
+2            +2.2            -3.7          +1.0        -0.6    -1.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          38.9         0.8           1.0       1.8  
+1          53.7         0.5           0.5       1.0  
+2         -14.8        +0.3          +0.5      +0.8  
+
+[3 rows x 22 columns]"
+east-carolina,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            29.6          43.7                    67.7      286.1   
+1    12            17.8          29.5                    60.5      202.2   
+2                 +11.8         +14.2                    +7.2      +83.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.1         33.1      109.1           3.3     1.3  ...           5.1   
+1     1.4         38.3      174.2           4.5     2.0  ...           5.5   
+2    +0.7         -5.2      -65.1          -1.2    -0.7  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            14.9             6.8           0.8        22.6     4.9   
+1             9.0             9.3           1.4        19.8     4.9   
+2            +5.9            -2.5          -0.6        +2.8     0.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.8         1.3           1.7       2.9  
+1          41.8         1.2           0.6       1.8  
+2          +4.0        +0.1          +1.1      +1.1  
+
+[3 rows x 22 columns]"
+eastern-michigan,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12             9.2          16.8                    54.5      126.7   
+1    12            18.7          31.0                    60.2      209.8   
+2                  -9.5         -14.2                    -5.7      -83.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         47.9      218.3           4.6     1.3  ...           5.3   
+1     1.7         33.9      140.5           4.1     1.0  ...           5.4   
+2    -0.5        +14.0      +77.8          +0.5    +0.3  ...          -0.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             5.0            11.5           1.1        17.6     7.3   
+1            10.7             6.3           1.8        18.8     4.7   
+2            -5.7            +5.2          -0.7        -1.2    +2.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          61.2         0.8           0.7       1.4  
+1          38.3         0.6           0.4       1.0  
+2         +22.9        +0.2          +0.3      +0.4  
+
+[3 rows x 22 columns]"
+florida,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            14.0          24.6                    56.9      185.7   
+1    13            14.3          26.2                    54.5      166.8   
+2                  -0.3          -1.6                    +2.4      +18.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         36.1      143.0           4.0     1.3  ...           5.4   
+1     1.2         39.0      132.7           3.4     1.2  ...           4.6   
+2    -0.2         -2.9      +10.3          +0.6    +0.1  ...          +0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.2             7.3           1.6        17.1     7.7   
+1             6.9             7.8           2.2        16.8     6.9   
+2            +1.3            -0.5          -0.6        +0.3    +0.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          59.5         1.0           1.0       2.0  
+1          56.9         0.5           0.6       1.1  
+2          +2.6        +0.5          +0.4      +0.9  
+
+[3 rows x 22 columns]"
+florida-atlantic,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            15.3          29.3                    52.1      143.1   
+1    12            20.9          31.4                    66.6      223.3   
+2                  -5.6          -2.1                   -14.5      -80.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.7         32.3      105.7           3.3     0.8  ...           4.0   
+1     1.6         42.0      168.9           4.0     2.3  ...           5.3   
+2    -0.9         -9.7      -63.2          -0.7    -1.5  ...          -1.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.5             5.8           1.4        14.7     7.7   
+1            10.2            10.0           2.0        22.2     5.8   
+2            -2.7            -4.2          -0.6        -7.5    +1.9   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          68.2         0.9           1.3       2.3  
+1          49.0         0.7           0.8       1.5  
+2         +19.2        +0.2          +0.5      +0.8  
+
+[3 rows x 22 columns]"
+florida-international,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.3          30.0                    61.0      214.9   
+1    13            20.5          35.8                    57.1      226.6   
+2                  -2.2          -5.8                    +3.9      -11.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         36.7      145.6           4.0     1.4  ...           5.4   
+1     0.8         35.2      118.1           3.4     1.2  ...           4.8   
+2    +0.4         +1.5      +27.5          +0.6    +0.2  ...          +0.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.8             8.2           1.6        18.6     7.8   
+1            10.2             6.6           2.2        19.0     7.3   
+2            -1.4            +1.6          -0.6        -0.4    +0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          65.8         0.8           0.4       1.2  
+1          60.8         0.5           1.1       1.5  
+2          +5.0        +0.3          -0.7      -0.3  
+
+[3 rows x 22 columns]"
+florida-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.0          29.5                    64.5      257.0   
+1    13            18.2          30.8                    59.1      192.3   
+2                  +0.8          -1.3                    +5.4      +64.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.9         33.6      112.2           3.3     1.5  ...           5.9   
+1     1.2         35.2       82.7           2.3     0.6  ...           4.2   
+2    +0.7         -1.6      +29.5          +1.0    +0.9  ...          +1.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.3             7.1           1.5        18.9     7.9   
+1             8.5             5.5           1.8        15.8     5.8   
+2            +1.8            +1.6          -0.3        +3.1    +2.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          67.3         0.5           0.9       1.5  
+1          47.5         0.5           1.2       1.8  
+2         +19.8         0.0          -0.3      -0.3  
+
+[3 rows x 22 columns]"
+fresno-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            21.5          34.5                    62.3      272.6   
+1    13            18.7          33.7                    55.5      269.2   
+2                  +2.8          +0.8                    +6.8       +3.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.0         33.8      139.2           4.1     1.4  ...           6.0   
+1     1.6         34.7      166.6           4.8     2.6  ...           6.4   
+2    +0.4         -0.9      -27.4          -0.7    -1.2  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.5             8.5           1.7        20.7     6.8   
+1            11.4             7.4           1.8        20.5     5.7   
+2            -0.9            +1.1          -0.1        +0.2    +1.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          62.2         1.0           0.8       1.8  
+1          53.8         0.3           0.4       0.7  
+2          +8.4        +0.7          +0.4      +1.1  
+
+[3 rows x 22 columns]"
+georgia,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            18.4          31.0                    59.2      244.5   
+1    14            15.6          30.7                    50.7      176.0   
+2                  +2.8          +0.3                    +8.5      +68.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.6         41.6      164.0           3.9     1.1  ...           5.6   
+1     0.9         31.4      101.2           3.2     1.1  ...           4.5   
+2    +1.7        +10.2      +62.8          +0.7     0.0  ...          +1.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.1             8.6           1.4        21.1     6.1   
+1             7.7             5.7           0.9        14.4     6.7   
+2            +3.4            +2.9          +0.5        +6.7    -0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          47.4         0.8           1.0       1.8  
+1          45.5         0.9           1.4       2.3  
+2          +1.9        -0.1          -0.4      -0.5  
+
+[3 rows x 22 columns]"
+georgia-tech,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13             6.3          12.8                    49.1      142.3   
+1    13            16.6          29.7                    56.0      197.8   
+2                 -10.3         -16.9                    -6.9      -55.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         55.2      316.5           5.7     3.5  ...           6.7   
+1     1.8         35.7      161.5           4.5     1.5  ...           5.5   
+2    -1.0        +19.5     +155.0          +1.2    +2.0  ...          +1.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             4.2            15.4           0.8        20.4     4.5   
+1             9.1             8.5           0.8        18.4     4.2   
+2            -4.9            +6.9           0.0        +2.0    +0.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          36.9         0.8           0.6       1.5  
+1          28.0         0.5           1.1       1.6  
+2          +8.9        +0.3          -0.5      -0.1  
+
+[3 rows x 22 columns]"
+hawaii,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            27.6          46.0                    60.0      308.8   
+1    13            19.0          32.6                    58.3      244.9   
+2                  +8.6         +13.4                    +1.7      +63.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.2         23.2       95.4           4.1     1.7  ...           5.8   
+1     2.2         36.5      142.5           3.9     1.5  ...           5.6   
+2     0.0        -13.3      -47.1          +0.2    +0.2  ...          +0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            15.2             5.2           2.2        22.5     6.1   
+1            11.2             7.8           1.3        20.4     6.2   
+2            +4.0            -2.6          +0.9        +2.1    -0.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.9         1.2           0.8       2.0  
+1          56.6         0.8           1.1       1.8  
+2         -10.7        +0.4          -0.3      +0.2  
+
+[3 rows x 22 columns]"
+houston,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            34.2          48.7                    70.2      450.1   
+1    14            18.4          33.5                    55.0      208.7   
+2                 +15.8         +15.2                   +15.2     +241.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     3.9         30.0      149.0           5.0     2.4  ...           7.6   
+1     1.4         41.1      171.6           4.2     1.3  ...           5.1   
+2    +2.5        -11.1      -22.6          +0.8    +1.1  ...          +2.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            18.4             8.2           1.4        28.1     6.1   
+1             9.4             9.4           1.1        19.9     6.3   
+2            +9.0            -1.2          +0.3        +8.2    -0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          49.9         0.6           0.4       1.1  
+1          52.1         0.7           1.5       2.2  
+2          -2.2        -0.1          -1.1      -1.1  
+
+[3 rows x 22 columns]"
+illinois,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            17.4          27.8                    62.4      184.0   
+1    13            13.8          25.2                    54.9      162.3   
+2                  +3.6          +2.6                    +7.5      +21.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.1         42.3      171.7           4.1     1.6  ...           5.1   
+1     1.2         39.5      123.8           3.1     1.2  ...           4.4   
+2    -0.1         +2.8      +47.9          +1.0    +0.4  ...          +0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.4             9.5           1.5        19.3     4.9   
+1             7.7             6.8           1.2        15.8     4.5   
+2            +0.7            +2.7          +0.3        +3.5    +0.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          42.2         1.2           1.0       2.2  
+1          38.5         0.9           0.8       1.7  
+2          +3.7        +0.3          +0.2      +0.5  
+
+[3 rows x 22 columns]"
+indiana,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            17.6          31.5                    55.8      199.4   
+1    12            15.1          25.2                    59.9      215.0   
+2                  +2.5          +6.3                    -4.1      -15.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         41.0      161.0           3.9     1.5  ...           5.0   
+1     2.2         46.0      243.7           5.3     2.1  ...           6.4   
+2    -1.4         -5.0      -82.7          -1.4    -0.6  ...          -1.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.6             8.9           1.6        20.1     6.9   
+1             8.5            12.7           0.9        22.1     5.9   
+2            +1.1            -3.8          +0.7        -2.0    +1.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          64.7         0.6           0.9       1.5  
+1          52.3         0.9           0.4       1.3  
+2         +12.4        -0.3          +0.5      +0.2  
+
+[3 rows x 22 columns]"
+iowa,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.5          31.7                    58.3      234.8   
+1    13            19.7          31.8                    62.0      222.9   
+2                  -1.2          -0.1                    -3.7      +11.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.9         34.9      137.7           3.9     1.4  ...           5.6   
+1     1.6         42.2      156.0           3.7     1.2  ...           5.1   
+2    +0.3         -7.3      -18.3          +0.2    +0.2  ...          +0.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.6             8.0           1.8        20.5     4.8   
+1            11.1             9.1           1.2        21.4     6.4   
+2            -0.5            -1.1          +0.6        -0.9    -1.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          35.6         0.8           0.6       1.4  
+1          53.9         0.7           0.8       1.5  
+2         -18.3        +0.1          -0.2      -0.1  
+
+[3 rows x 22 columns]"
+iowa-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.2          37.2                    51.4      212.3   
+1    13            18.5          32.7                    56.7      234.0   
+2                  +0.7          +4.5                    -5.3      -21.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         41.4      174.2           4.2     1.5  ...           4.9   
+1     1.3         42.6      193.5           4.5     1.8  ...           5.7   
+2     0.0         -1.2      -19.3          -0.3    -0.3  ...          -0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.8             9.5           1.7        21.0     6.8   
+1            10.3            11.2           1.3        22.8     5.5   
+2            -0.5            -1.7          +0.4        -1.8    +1.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          52.3         1.4           1.3       2.7  
+1          44.5         1.0           0.8       1.8  
+2          +7.8        +0.4          +0.5      +0.9  
+
+[3 rows x 22 columns]"
+kansas,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            15.9          25.1                    63.5      167.4   
+1    12            21.7          31.2                    69.5      277.3   
+2                  -5.8          -6.1                    -6.0     -109.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         45.3      159.4           3.5     1.7  ...           4.6   
+1     2.3         41.0      239.1           5.8     3.2  ...           7.2   
+2    -1.0         +4.3      -79.7          -2.3    -1.5  ...          -2.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.8             9.5           1.8        19.0     5.8   
+1            11.6            12.8           1.2        25.5     5.2   
+2            -3.8            -3.3          +0.6        -6.5    +0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.9         0.9           1.0       1.9  
+1          45.3         0.8           0.7       1.5  
+2          +0.6        +0.1          +0.3      +0.4  
+
+[3 rows x 22 columns]"
+kansas-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            12.8          22.3                    57.6      151.5   
+1    13            23.2          36.8                    63.0      263.4   
+2                 -10.4         -14.5                    -5.4     -111.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         46.6      185.5           4.0     2.6  ...           4.9   
+1     2.0         33.0      131.2           4.0     1.4  ...           5.7   
+2    -1.0        +13.6      +54.3           0.0    +1.2  ...          -0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.9            10.6           2.1        19.6     4.7   
+1            11.6             7.6           1.1        20.3     6.5   
+2            -4.7            +3.0          +1.0        -0.7    -1.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          35.8         0.7           0.5       1.2  
+1          64.4         0.7           1.4       2.1  
+2         -28.6         0.0          -0.9      -0.9  
+
+[3 rows x 22 columns]"
+kent-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            14.3          29.0                    49.4      145.4   
+1    12            16.8          30.1                    55.7      196.3   
+2                  -2.5          -1.1                    -6.3      -50.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.9         35.9      108.1           3.0     0.9  ...           3.9   
+1     0.9         37.0      129.8           3.5     1.3  ...           4.9   
+2     0.0         -1.1      -21.7          -0.5    -0.4  ...          -1.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.0             5.2           1.4        13.6     6.3   
+1             8.9             7.1           1.6        17.6     4.8   
+2            -1.9            -1.9          -0.2        -4.0    +1.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          63.7         0.8           0.8       1.6  
+1          44.2         1.4           1.2       2.6  
+2         +19.5        -0.6          -0.4      -1.0  
+
+[3 rows x 22 columns]"
+kentucky,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            14.3          28.0                    50.9      135.6   
+1    12            14.6          28.5                    51.2      193.8   
+2                  -0.3          -0.5                    -0.3      -58.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         35.7      124.2           3.5     0.8  ...           4.1   
+1     1.6         40.6      183.2           4.5     1.2  ...           5.5   
+2    -0.6         -4.9      -59.0          -1.0    -0.4  ...          -1.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             5.6             7.0           1.6        14.2     4.9   
+1             8.3            10.1           1.2        19.5     6.2   
+2            -2.7            -3.1          +0.4        -5.3    -1.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          40.2         1.0           1.0       2.0  
+1          53.3         0.8           1.3       2.1  
+2         -13.1        +0.2          -0.3      -0.1  
+
+[3 rows x 22 columns]"
+louisiana-lafayette,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            20.5          33.6                    60.9      269.5   
+1    13            23.2          36.8                    63.0      261.3   
+2                  -2.7          -3.2                    -2.1       +8.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.9         35.1      125.2           3.6     1.5  ...           5.7   
+1     1.8         37.2      138.6           3.7     2.0  ...           5.4   
+2    +0.1         -2.1      -13.4          -0.1    -0.5  ...          +0.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.9             6.3           1.7        18.9     7.6   
+1            12.1             7.2           1.8        21.1     7.2   
+2            -1.2            -0.9          -0.1        -2.2    +0.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          66.1         1.0           0.8       1.8  
+1          61.2         0.7           1.1       1.8  
+2          +4.9        +0.3          -0.3       0.0  
+
+[3 rows x 22 columns]"
+louisiana-tech,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            21.4          36.8                    58.2      248.4   
+1    13            22.9          39.2                    58.5      249.1   
+2                  -1.5          -2.4                    -0.3       -0.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         39.2      146.2           3.7     1.6  ...           5.2   
+1     1.6         37.3      127.4           3.4     0.8  ...           4.9   
+2     0.0         +1.9      +18.8          +0.3    +0.8  ...          +0.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.2             8.5           1.3        20.1     6.8   
+1            10.8             8.2           1.2        20.2     6.0   
+2            -0.6            +0.3          +0.1        -0.1    +0.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          61.2         0.7           0.8       1.5  
+1          50.4         0.8           1.6       2.4  
+2         +10.8        -0.1          -0.8      -0.9  
+
+[3 rows x 22 columns]"
+louisiana-monroe,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            22.8          39.4                    57.9      237.6   
+1    12            20.3          34.8                    58.4      226.2   
+2                  +2.5          +4.6                    -0.5      +11.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         38.8      153.0           3.9     1.8  ...           5.0   
+1     1.9         32.2      100.0           3.1     1.1  ...           4.9   
+2    -0.6         +6.6      +53.0          +0.8    +0.7  ...          +0.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.3             7.6           2.1        21.9     5.7   
+1            10.3             6.2           1.2        17.6     5.9   
+2            +2.0            +1.4          +0.9        +4.3    -0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          50.0         0.7           0.8       1.5  
+1          48.1         0.7           1.1       1.8  
+2          +1.9         0.0          -0.3      -0.3  
+
+[3 rows x 22 columns]"
+louisville,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.7          29.3                    63.8      211.5   
+1    13            19.5          32.5                    60.0      227.4   
+2                  -0.8          -3.2                    +3.8      -15.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         35.8      121.5           3.4     1.0  ...           5.1   
+1     1.5         33.5      100.5           3.0     0.8  ...           5.0   
+2     0.0         +2.3      +21.0          +0.4    +0.2  ...          +0.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.9             7.2           0.4        16.5     6.9   
+1             9.7             6.6           1.4        17.7     5.4   
+2            -0.8            +0.6          -1.0        -1.2    +1.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          56.5         0.7           1.0       1.7  
+1          38.1         0.8           0.8       1.6  
+2         +18.4        -0.1          +0.2      +0.1  
+
+[3 rows x 22 columns]"
+louisiana-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            12.4          19.9                    62.0      152.5   
+1    14            16.4          31.2                    52.4      171.4   
+2                  -4.0         -11.3                    +9.6      -18.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         42.2      202.6           4.8     2.5  ...           5.7   
+1     0.5         32.9       90.1           2.7     0.5  ...           4.1   
+2    +1.0         +9.3     +112.5          +2.1    +2.0  ...          +1.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.9            10.4           1.9        19.2     6.1   
+1             8.1             5.6           1.5        15.1     6.8   
+2            -1.2            +4.8          +0.4        +4.1    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          49.0         0.4           0.4       0.7  
+1          54.7         0.9           1.3       2.1  
+2          -5.7        -0.5          -0.9      -1.4  
+
+[3 rows x 22 columns]"
+marshall,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.9          31.3                    60.4      213.3   
+1    13            22.2          35.4                    62.6      255.2   
+2                  -3.3          -4.1                    -2.2      -41.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.7         34.3      120.1           3.5     0.7  ...           5.1   
+1     1.8         36.2      149.8           4.1     1.5  ...           5.7   
+2    -0.1         -1.9      -29.7          -0.6    -0.8  ...          -0.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.1             6.3           0.8        16.2     5.5   
+1            12.5             7.6           1.1        21.2     5.2   
+2            -3.4            -1.3          -0.3        -5.0    +0.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          41.8         0.9           1.2       2.1  
+1          41.5         1.2           1.1       2.2  
+2          +0.3        -0.3          +0.1      -0.1  
+
+[3 rows x 22 columns]"
+maryland,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            19.4          36.2                    53.7      210.3   
+1    12            20.4          31.1                    65.7      237.4   
+2                  -1.0          +5.1                   -12.0      -27.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         35.1      169.3           4.8     1.3  ...           5.3   
+1     1.5         47.0      219.8           4.7     2.6  ...           5.9   
+2    -0.3        -11.9      -50.5          +0.1    -1.3  ...          -0.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.2             8.9           1.2        20.3     4.1   
+1            10.7            11.8           1.4        23.9     5.3   
+2            -0.5            -2.9          -0.2        -3.6    -1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          36.2         0.6           1.3       1.9  
+1          45.6         1.3           0.9       2.3  
+2          -9.4        -0.7          +0.4      -0.4  
+
+[3 rows x 22 columns]"
+memphis,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            18.7          34.0                    54.9      190.3   
+1    12            23.3          36.0                    64.6      299.4   
+2                  -4.6          -2.0                    -9.7     -109.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         31.5       84.0           2.7     0.8  ...           4.2   
+1     2.3         37.9      191.6           5.1     2.1  ...           6.6   
+2    -1.5         -6.4     -107.6          -2.4    -1.3  ...          -2.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.9             5.1           1.2        15.2     4.8   
+1            13.8             9.0           1.3        24.0     5.8   
+2            -4.9            -3.9          -0.1        -8.8    -1.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.6         0.8           0.7       1.5  
+1          48.9         1.5           1.0       2.5  
+2          -5.3        -0.7          -0.3      -1.0  
+
+[3 rows x 22 columns]"
+miami-fl,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            18.5          28.3                    65.5      232.1   
+1    12            17.4          26.3                    66.3      198.0   
+2                  +1.1          +2.0                    -0.8      +34.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         33.2      145.7           4.4     1.5  ...           6.2   
+1     1.3         39.4      161.9           4.1     0.7  ...           5.5   
+2    +0.5         -6.2      -16.2          +0.3    +0.8  ...          +0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.8             7.1           1.4        18.3     5.8   
+1             9.8             9.1           0.8        19.7     5.2   
+2             0.0            -2.0          +0.6        -1.4    +0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          42.3         0.7           0.9       1.6  
+1          40.3         0.8           0.5       1.3  
+2          +2.0        -0.1          +0.4      +0.3  
+
+[3 rows x 22 columns]"
+miami-oh,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            25.1          38.3                    65.6      299.1   
+1    12            16.7          28.7                    58.1      195.2   
+2                  +8.4          +9.6                    +7.5     +103.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.0         31.3       73.8           2.4     0.9  ...           5.4   
+1     1.4         40.4      168.5           4.2     1.3  ...           5.3   
+2    +0.6         -9.1      -94.7          -1.8    -0.4  ...          +0.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.4             5.6           1.0        20.0     5.8   
+1             8.7             8.8           1.2        18.7     5.3   
+2            +4.7            -3.2          -0.2        +1.3    +0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.9         0.8           0.9       1.8  
+1          47.5         0.6           0.8       1.4  
+2          -1.6        +0.2          +0.1      +0.4  
+
+[3 rows x 22 columns]"
+michigan,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            11.9          21.8                    54.6      182.8   
+1    13            17.0          28.8                    59.1      190.5   
+2                  -5.1          -7.0                    -4.5       -7.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.7         43.1      221.8           5.2     2.4  ...           6.2   
+1     0.9         33.0      131.7           4.0     1.1  ...           5.2   
+2    +0.8        +10.1      +90.1          +1.2    +1.3  ...          +1.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.5            11.4           1.9        20.8     4.1   
+1             8.8             7.2           1.2        17.2     7.1   
+2            -1.3            +4.2          +0.7        +3.6    -3.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          35.2         0.5           1.2       1.7  
+1          61.7         1.5           0.7       2.2  
+2         -26.5        -1.0          +0.5      -0.5  
+
+[3 rows x 22 columns]"
+michigan-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            20.6          32.2                    63.9      252.5   
+1    14            15.4          28.6                    53.9      176.9   
+2                  +5.2          +3.6                   +10.0      +75.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.9         34.9      137.9           3.9     1.5  ...           5.8   
+1     1.4         35.9      100.5           2.8     0.8  ...           4.3   
+2    +0.5         -1.0      +37.4          +1.1    +0.7  ...          +1.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.4             7.1           1.0        19.4     6.8   
+1             8.2             5.6           2.4        16.1     6.1   
+2            +3.2            +1.5          -1.4        +3.3    +0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          55.4         0.6           0.7       1.3  
+1          49.1         0.5           1.3       1.8  
+2          +6.3        +0.1          -0.6      -0.5  
+
+[3 rows x 22 columns]"
+middle-tennessee-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            24.9          42.4                    58.7      254.3   
+1    12            17.3          27.4                    63.2      211.6   
+2                  +7.6         +15.0                    -4.5      +42.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         35.8      146.8           4.1     1.2  ...           5.1   
+1     1.5         49.2      229.5           4.7     3.1  ...           5.8   
+2    +0.3        -13.4      -82.7          -0.6    -1.9  ...          -0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.7             8.7           1.3        21.7     4.8   
+1             9.3            12.0           1.1        22.4     5.9   
+2            +2.4            -3.3          +0.2        -0.7    -1.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          42.6         1.1           1.3       2.3  
+1          49.0         1.3           0.3       1.7  
+2          -6.4        -0.2          +1.0      +0.6  
+
+[3 rows x 22 columns]"
+minnesota,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            11.2          22.8                    48.9      150.3   
+1    12            19.9          29.4                    67.7      216.7   
+2                  -8.7          -6.6                   -18.8      -66.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         39.2      160.0           4.1     1.2  ...           5.0   
+1     1.9         38.3      186.4           4.9     1.9  ...           6.0   
+2    -1.1         +0.9      -26.4          -0.8    -0.7  ...          -1.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.8             8.7           0.8        16.3     5.7   
+1            10.2            10.5           1.6        22.3     4.5   
+2            -3.4            -1.8          -0.8        -6.0    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          49.4         0.6           0.8       1.4  
+1          37.1         0.4           0.3       0.8  
+2         +12.3        +0.2          +0.5      +0.6  
+
+[3 rows x 22 columns]"
+mississippi-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            15.2          26.8                    56.7      181.8   
+1    13            21.5          33.4                    64.5      197.2   
+2                  -6.3          -6.6                    -7.8      -15.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         39.5      175.3           4.4     1.5  ...           5.4   
+1     0.9         41.2      153.5           3.7     1.2  ...           4.7   
+2    +0.6         -1.7      +21.8          +0.7    +0.3  ...          +0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.8             9.5           1.3        18.5     5.5   
+1             9.5             9.1           1.2        19.8     6.2   
+2            -1.7            +0.4          +0.1        -1.3    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.6         0.5           1.0       1.5  
+1          53.7         0.6           0.9       1.5  
+2         -10.1        -0.1          +0.1       0.0  
+
+[3 rows x 22 columns]"
+missouri,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.7          29.5                    63.4      231.5   
+1    13            23.5          37.5                    62.8      252.6   
+2                  -4.8          -8.0                    +0.6      -21.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         45.3      244.0           5.4     2.3  ...           6.4   
+1     1.5         35.6      127.4           3.6     1.3  ...           5.2   
+2    +0.3         +9.7     +116.6          +1.8    +1.0  ...          +1.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.7            13.5           1.2        24.3     5.4   
+1            11.6             7.8           1.3        20.7     5.9   
+2            -1.9            +5.7          -0.1        +3.6    -0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.6         0.6           0.8       1.5  
+1          44.8         0.7           1.0       1.7  
+2          +0.8        -0.1          -0.2      -0.2  
+
+[3 rows x 22 columns]"
+navy,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12             5.4          11.3                    48.1       85.8   
+1    12            21.4          28.8                    74.3      226.9   
+2                 -16.0         -17.5                   -26.2     -141.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         57.8      312.3           5.4     2.8  ...           5.8   
+1     1.2         38.7      186.9           4.8     2.7  ...           6.1   
+2    -0.4        +19.1     +125.4          +0.6    +0.1  ...          -0.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             3.3            16.8           1.2        21.3     2.3   
+1            11.3            10.8           0.4        22.4     4.7   
+2            -8.0            +6.0          +0.8        -1.1    -2.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          20.0         0.8           0.5       1.3  
+1          41.5         1.2           0.8       2.0  
+2         -21.5        -0.4          -0.3      -0.7  
+
+[3 rows x 22 columns]"
+nebraska,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            12.6          22.5                    56.0      162.7   
+1    13            14.8          27.8                    53.2      192.2   
+2                  -2.2          -5.3                    +2.8      -29.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         47.0      217.2           4.6     2.4  ...           5.5   
+1     1.2         39.6      158.5           4.0     1.8  ...           5.2   
+2    -0.2         +7.4      +58.7          +0.6    +0.6  ...          +0.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.7            11.0           1.7        20.4     6.6   
+1             7.8             9.2           1.8        18.8     5.9   
+2            -0.1            +1.8          -0.1        +1.6    +0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          52.9         0.8           0.6       1.5  
+1          57.5         0.6           0.8       1.4  
+2          -4.6        +0.2          -0.2      +0.1  
+
+[3 rows x 22 columns]"
+nevada,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            20.8          31.5                    66.0      259.2   
+1    13            16.4          33.9                    48.3      221.8   
+2                  +4.4          -2.4                   +17.7      +37.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         48.3      247.5           5.1     2.2  ...           6.4   
+1     1.9         32.7      147.4           4.5     1.2  ...           5.5   
+2    -0.4        +15.6     +100.1          +0.6    +1.0  ...          +0.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.0            13.0           1.5        26.5     6.9   
+1             9.8             7.1           1.8        18.6     6.5   
+2            +2.2            +5.9          -0.3        +7.9    +0.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          56.5         1.0           0.9       1.9  
+1          52.8         0.8           1.2       1.9  
+2          +3.7        +0.2          -0.3       0.0  
+
+[3 rows x 22 columns]"
+nevada-las-vegas,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            12.0          22.4                    53.5      109.6   
+1    12            17.5          28.8                    60.9      249.0   
+2                  -5.5          -6.4                    -7.4     -139.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         41.7      164.3           3.9     1.2  ...           4.3   
+1     2.3         39.8      194.2           4.9     2.5  ...           6.5   
+2    -1.5         +1.9      -29.9          -1.0    -1.3  ...          -2.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             5.4             8.4           1.3        15.1     6.7   
+1            10.4            10.1           1.7        22.2     4.3   
+2            -5.0            -1.7          -0.4        -7.1    +2.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          61.2         0.6           0.8       1.4  
+1          35.7         1.1           0.6       1.7  
+2         +25.5        -0.5          +0.2      -0.3  
+
+[3 rows x 22 columns]"
+new-mexico,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            16.8          29.6                    56.6      183.0   
+1    12            20.3          28.0                    72.6      245.2   
+2                  -3.5          +1.6                   -16.0      -62.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.6         33.8      113.2           3.4     0.8  ...           4.7   
+1     1.8         45.1      246.9           5.5     3.8  ...           6.7   
+2    -1.2        -11.3     -133.7          -2.1    -3.0  ...          -2.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.4             6.8           1.3        15.6     6.8   
+1            11.3            13.0           0.8        25.2     5.6   
+2            -3.9            -6.2          +0.5        -9.6    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          48.5         1.1           0.7       1.8  
+1          49.3         0.8           0.3       1.1  
+2          -0.8        +0.3          +0.4      +0.7  
+
+[3 rows x 22 columns]"
+new-mexico-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.2          34.7                    55.2      273.1   
+1    13            20.0          33.5                    59.6      243.4   
+2                  -0.8          +1.2                    -4.4      +29.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         34.3      125.0           3.6     1.2  ...           5.8   
+1     2.0         40.6      218.8           5.4     2.5  ...           6.2   
+2    -0.2         -6.3      -93.8          -1.8    -1.3  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.8             7.2           1.2        20.3     6.9   
+1            10.9            11.3           1.8        24.1     4.5   
+2            +0.9            -4.1          -0.6        -3.8    +2.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          52.4         0.8           1.1       1.9  
+1          39.4         0.9           0.8       1.7  
+2         +13.0        -0.1          +0.3      +0.2  
+
+[3 rows x 22 columns]"
+north-carolina,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.2          28.5                    67.1      254.4   
+1    13            21.3          35.0                    60.9      241.3   
+2                  -2.1          -6.5                    +6.2      +13.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.0         34.0      138.8           4.1     1.7  ...           6.3   
+1     1.8         34.8      123.9           3.6     0.9  ...           5.2   
+2    +0.2         -0.8      +14.9          +0.5    +0.8  ...          +1.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.9             7.2           1.1        19.2     5.4   
+1            10.8             7.5           1.5        19.9     5.2   
+2            +0.1            -0.3          -0.4        -0.7    +0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          47.9         0.9           1.1       2.0  
+1          40.3         0.8           1.1       1.8  
+2          +7.6        +0.1           0.0      +0.2  
+
+[3 rows x 22 columns]"
+north-carolina-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            22.4          35.8                    62.4      240.0   
+1    13            18.0          31.3                    57.5      223.7   
+2                  +4.4          +4.5                    +4.9      +16.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.5         34.5      104.8           3.0     0.8  ...           4.9   
+1     1.3         35.2      131.2           3.7     1.4  ...           5.3   
+2    +1.2         -0.7      -26.4          -0.7    -0.6  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.8             5.9           1.7        18.4     4.6   
+1             9.6             7.2           0.8        17.7     5.0   
+2            +1.2            -1.3          +0.9        +0.7    -0.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          33.8         1.0           0.9       1.9  
+1          46.8         0.9           2.1       3.0  
+2         -13.0        +0.1          -1.2      -1.1  
+
+[3 rows x 22 columns]"
+north-texas,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            16.6          28.9                    57.3      189.3   
+1    12            21.4          35.8                    59.9      265.8   
+2                  -4.8          -6.9                    -2.6      -76.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         40.0      152.4           3.8     1.6  ...           5.0   
+1     2.3         34.9      163.5           4.7     1.5  ...           6.1   
+2    -1.1         +5.1      -11.1          -0.9    +0.1  ...          -1.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.8             7.8           1.2        17.8     5.0   
+1            12.3             8.3           1.0        21.5     5.0   
+2            -3.5            -0.5          +0.2        -3.7     0.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          41.4         0.7           0.8       1.4  
+1          41.3         1.4           0.8       2.2  
+2          +0.1        -0.7           0.0      -0.8  
+
+[3 rows x 22 columns]"
+northern-illinois,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            18.1          29.1                    62.0      241.9   
+1    14            19.4          34.1                    56.7      247.9   
+2                  -1.3          -5.0                    +5.3       -6.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.1         42.5      234.1           5.5     2.4  ...           6.6   
+1     2.1         41.6      167.4           4.0     1.6  ...           5.5   
+2     0.0         +0.9      +66.7          +1.5    +0.8  ...          +1.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.6            11.3           1.9        23.8     5.5   
+1            10.9            10.2           1.7        22.8     6.1   
+2            -0.3            +1.1          +0.2        +1.0    -0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          53.4         0.9           0.4       1.4  
+1          54.1         0.9           0.9       1.8  
+2          -0.7         0.0          -0.5      -0.4  
+
+[3 rows x 22 columns]"
+northwestern,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            22.2          31.3                    71.0      254.2   
+1    13            16.6          27.4                    60.7      230.4   
+2                  +5.6          +3.9                   +10.3      +23.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.0         44.4      166.6           3.8     1.9  ...           5.6   
+1     1.2         39.5      177.3           4.5     2.1  ...           6.1   
+2    +0.8         +4.9      -10.7          -0.7    -0.2  ...          -0.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.5            10.5           1.5        23.5     4.3   
+1             9.7             9.8           1.0        20.5     5.3   
+2            +1.8            +0.7          +0.5        +3.0    -1.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          37.8         0.6           0.7       1.3  
+1          46.2         0.6           0.9       1.5  
+2          -8.4         0.0          -0.2      -0.2  
+
+[3 rows x 22 columns]"
+notre-dame,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            23.2          36.4                    63.8      252.6   
+1    13            18.8          31.5                    59.7      205.8   
+2                  +4.4          +4.9                    +4.1      +46.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         33.3      160.4           4.8     1.9  ...           5.9   
+1     1.8         36.8      138.9           3.8     0.6  ...           5.1   
+2    -0.2         -3.5      +21.5          +1.0    +1.3  ...          +0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.5             8.9           2.2        23.5     6.4   
+1            10.4             7.8           1.9        20.1     7.4   
+2            +2.1            +1.1          +0.3        +3.4    -1.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          59.1         0.9           1.3       2.2  
+1          62.5         0.5           0.6       1.1  
+2          -3.4        +0.4          +0.7      +1.1  
+
+[3 rows x 22 columns]"
+ohio,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            19.6          30.5                    64.2      249.0   
+1    14            18.3          33.5                    54.6      219.0   
+2                  +1.3          -3.0                    +9.6      +30.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.1         42.6      200.3           4.7     1.3  ...           6.1   
+1     1.7         35.2      142.0           4.0     0.9  ...           5.3   
+2    +0.4         +7.4      +58.3          +0.7    +0.4  ...          +0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.9            11.2           1.4        23.4     6.1   
+1             9.9             7.5           1.5        18.9     5.9   
+2            +1.0            +3.7          -0.1        +4.5    +0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          59.4         1.1           0.8       1.9  
+1          45.5         0.9           1.1       1.9  
+2         +13.9        +0.2          -0.3       0.0  
+
+[3 rows x 22 columns]"
+ohio-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13             9.6          18.8                    51.0      127.0   
+1    13            16.5          27.1                    60.8      182.0   
+2                  -6.9          -8.3                    -9.8      -55.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.4         43.3      191.2           4.4     1.5  ...           5.1   
+1     1.4         36.8      141.5           3.8     1.0  ...           5.1   
+2     0.0         +6.5      +49.7          +0.6    +0.5  ...           0.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             5.8             9.8           1.5        17.1     5.4   
+1             8.5             7.2           1.1        16.8     5.9   
+2            -2.7            +2.6          +0.4        +0.3    -0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          44.0         0.8           0.4       1.2  
+1          50.5         0.5           1.0       1.5  
+2          -6.5        +0.3          -0.6      -0.3  
+
+[3 rows x 22 columns]"
+oklahoma,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            28.1          44.8                    62.6      349.4   
+1    13            19.8          36.5                    54.2      241.5   
+2                  +8.3          +8.3                    +8.4     +107.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.2         36.1      162.9           4.5     2.3  ...           6.3   
+1     1.4         36.6      134.7           3.7     1.2  ...           5.1   
+2    +0.8         -0.5      +28.2          +0.8    +1.1  ...          +1.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            15.8             9.0           1.1        25.9     4.9   
+1            10.1             7.5           1.6        19.2     6.2   
+2            +5.7            +1.5          -0.5        +6.7    -1.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          45.5         1.0           1.2       2.2  
+1          43.8         0.9           1.2       2.1  
+2          +1.7        +0.1           0.0      +0.1  
+
+[3 rows x 22 columns]"
+oklahoma-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            32.9          45.8                    71.9      387.2   
+1    13            24.8          41.6                    59.5      271.8   
+2                  +8.1          +4.2                   +12.4     +115.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     3.1         30.2      158.6           5.3     2.8  ...           7.2   
+1     1.2         42.2      184.9           4.4     1.8  ...           5.5   
+2    +1.9        -12.0      -26.3          +0.9    +1.0  ...          +1.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            17.1             7.6           1.2        25.9     5.5   
+1            13.8            10.2           1.2        25.3     5.5   
+2            +3.3            -2.6           0.0        +0.6     0.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          50.5         0.8           1.0       1.8  
+1          42.0         1.5           1.8       3.4  
+2          +8.5        -0.7          -0.8      -1.6  
+
+[3 rows x 22 columns]"
+mississippi,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            12.9          26.1                    49.5      151.7   
+1    12            15.6          25.5                    61.1      194.4   
+2                  -2.7          +0.6                   -11.6      -42.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         38.3      129.6           3.4     1.0  ...           4.4   
+1     1.4         41.7      224.9           5.4     2.2  ...           6.2   
+2    -0.6         -3.4      -95.3          -2.0    -1.2  ...          -1.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.6             8.1           0.8        15.5     6.7   
+1             8.8            10.3           1.6        20.7     5.0   
+2            -2.2            -2.2          -0.8        -5.2    +1.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          57.7         1.0           1.1       2.1  
+1          38.3         0.6           0.8       1.4  
+2         +19.4        +0.4          +0.3      +0.7  
+
+[3 rows x 22 columns]"
+oregon,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            16.9          27.6                    61.1      223.6   
+1    14            22.4          37.8                    59.2      247.3   
+2                  -5.5         -10.2                    +1.9      -23.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.8         44.9      299.2           6.7     3.0  ...           7.2   
+1     1.8         39.1      142.8           3.6     1.0  ...           5.1   
+2    +1.0         +5.8     +156.4          +3.1    +2.0  ...          +2.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.4            13.4           1.4        24.2     7.2   
+1            11.4             8.0           2.1        21.6     6.3   
+2            -2.0            +5.4          -0.7        +2.6    +0.9   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          65.0         0.9           0.5       1.4  
+1          51.6         0.9           1.2       2.1  
+2         +13.4         0.0          -0.7      -0.7  
+
+[3 rows x 22 columns]"
+oregon-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            26.7          41.9                    63.6      286.8   
+1    12            18.6          29.0                    64.1      214.4   
+2                  +8.1         +12.9                    -0.5      +72.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         26.5       86.9           3.3     1.0  ...           5.5   
+1     2.3         41.0      196.8           4.8     1.8  ...           5.9   
+2    -1.0        -14.5     -109.9          -1.5    -0.8  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.3             4.6           1.8        19.8     7.4   
+1            10.2            10.3           2.6        23.1     6.2   
+2            +3.1            -5.7          -0.8        -3.3    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          68.7         1.0           1.6       2.6  
+1          56.2         1.0           0.9       1.9  
+2         +12.5         0.0          +0.7      +0.7  
+
+[3 rows x 22 columns]"
+penn-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            13.9          28.9                    48.1      177.0   
+1    13            18.3          32.8                    55.7      190.6   
+2                  -4.4          -3.9                    -7.6      -13.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         39.6      165.4           4.2     1.4  ...           5.0   
+1     0.9         37.0      133.3           3.6     1.0  ...           4.6   
+2    -0.1         +2.6      +32.1          +0.6    +0.4  ...          +0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.2             8.9           1.2        18.3     5.0   
+1             9.7             6.9           1.1        17.7     4.8   
+2            -1.5            +2.0          +0.1        +0.6    +0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.5         1.0           0.9       1.9  
+1          38.5         0.9           1.1       2.0  
+2          +5.0        +0.1          -0.2      -0.1  
+
+[3 rows x 22 columns]"
+pittsburgh,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            20.2          32.8                    61.7      209.8   
+1    13            21.0          34.5                    60.9      233.7   
+2                  -0.8          -1.7                    +0.8      -23.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.9         39.8      140.3           3.5     1.6  ...           4.8   
+1     1.2         35.8      116.9           3.3     1.3  ...           5.0   
+2    -0.3         +4.0      +23.4          +0.2    +0.3  ...          -0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.0             7.6           1.3        19.9     5.3   
+1            11.6             6.4           1.5        19.5     6.1   
+2            -0.6            +1.2          -0.2        +0.4    -0.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          39.5         0.6           1.1       1.7  
+1          55.8         1.0           0.6       1.6  
+2         -16.3        -0.4          +0.5      +0.1  
+
+[3 rows x 22 columns]"
+purdue,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            17.9          30.1                    59.6      195.2   
+1    13            17.8          30.8                    57.9      221.0   
+2                  +0.1          -0.7                    +1.7      -25.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         41.2      181.6           4.4     1.7  ...           5.3   
+1     1.3         40.8      174.9           4.3     1.9  ...           5.5   
+2     0.0         +0.4       +6.7          +0.1    -0.2  ...          -0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.5             9.8           1.3        20.5     7.4   
+1            10.4             9.5           2.1        21.9     5.5   
+2            -0.9            +0.3          -0.8        -1.4    +1.9   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          60.2         0.7           0.8       1.5  
+1          49.3         0.7           0.9       1.6  
+2         +10.9         0.0          -0.1      -0.1  
+
+[3 rows x 22 columns]"
+rice,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            18.5          32.0                    57.8      196.8   
+1    12            20.5          33.3                    61.7      278.7   
+2                  -2.0          -1.3                    -3.9      -81.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         38.9      150.9           3.9     1.1  ...           4.9   
+1     2.7         38.1      183.4           4.8     1.5  ...           6.5   
+2    -1.4         +0.8      -32.5          -0.9    -0.4  ...          -1.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.8             9.1           1.3        18.2     4.8   
+1            10.8             9.5           1.0        21.3     4.3   
+2            -3.0            -0.4          +0.3        -3.1    +0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          38.4         1.0           0.6       1.6  
+1          37.5         1.2           1.1       2.3  
+2          +0.9        -0.2          -0.5      -0.7  
+
+[3 rows x 22 columns]"
+rutgers,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.7          36.5                    53.9      241.2   
+1    13            14.2          27.3                    51.8      172.3   
+2                  +5.5          +9.2                    +2.1      +68.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         35.5       97.8           2.8     1.1  ...           4.7   
+1     0.6         36.6      141.8           3.9     1.3  ...           4.9   
+2    +1.0         -1.1      -44.0          -1.1    -0.2  ...          -0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.4             6.2           2.2        19.7     6.8   
+1             7.2             7.0           1.2        15.4     6.6   
+2            +4.2            -0.8          +1.0        +4.3    +0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          44.7         0.9           1.2       2.2  
+1          53.2         1.2           1.5       2.6  
+2          -8.5        -0.3          -0.3      -0.4  
+
+[3 rows x 22 columns]"
+san-diego-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            18.3          34.5                    53.0      242.9   
+1    13            15.7          28.0                    56.0      221.7   
+2                  +2.6          +6.5                    -3.0      +21.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         37.4      184.5           4.9     2.2  ...           5.9   
+1     1.4         41.0      169.5           4.1     1.8  ...           5.7   
+2    +0.4         -3.6      +15.0          +0.8    +0.4  ...          +0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.4             8.8           1.5        21.6     4.6   
+1             8.2             9.2           1.3        18.7     6.0   
+2            +3.2            -0.4          +0.2        +2.9    -1.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          41.1         0.6           0.6       1.2  
+1          49.5         1.0           1.2       2.2  
+2          -8.4        -0.4          -0.6      -1.0  
+
+[3 rows x 22 columns]"
+san-jose-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            24.8          39.9                    62.0      276.8   
+1    12            17.5          28.3                    61.8      221.3   
+2                  +7.3         +11.6                    +0.2      +55.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.1         30.3      101.8           3.4     1.4  ...           5.4   
+1     1.6         41.8      204.3           4.9     2.2  ...           6.1   
+2    -0.5        -11.5     -102.5          -1.5    -0.8  ...          -0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.6             4.5           1.3        19.4     3.3   
+1             9.6            10.2           1.3        21.0     4.8   
+2            +4.0            -5.7           0.0        -1.6    -1.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          31.5         1.4           1.3       2.7  
+1          43.3         1.7           1.1       2.8  
+2         -11.8        -0.3          +0.2      -0.1  
+
+[3 rows x 22 columns]"
+southern-methodist,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            21.6          36.6                    59.0      274.8   
+1    13            21.8          34.1                    64.1      221.7   
+2                  -0.2          +2.5                    -5.1      +53.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         27.3      113.8           4.2     1.9  ...           6.1   
+1     1.2         35.8      118.3           3.3     1.3  ...           4.9   
+2    +0.1         -8.5       -4.5          +0.9    +0.6  ...          +1.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.6             4.8           1.5        18.8     6.2   
+1             9.9             7.3           1.4        18.6     5.0   
+2            +2.7            -2.5          +0.1        +0.2    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          50.5         1.0           1.5       2.5  
+1          44.8         0.8           0.5       1.2  
+2          +5.7        +0.2          +1.0      +1.3  
+
+[3 rows x 22 columns]"
+south-carolina,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            14.7          24.4                    60.3      181.5   
+1    13            13.4          26.6                    50.3      131.7   
+2                  +1.3          -2.2                   +10.0      +49.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         42.5      192.1           4.5     2.2  ...           5.6   
+1     1.1         37.6      136.0           3.6     0.9  ...           4.2   
+2    +0.4         +4.9      +56.1          +0.9    +1.3  ...          +1.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.9            11.2           0.9        19.1     6.3   
+1             6.4             8.6           0.8        15.8     4.9   
+2            +0.5            +2.6          +0.1        +3.3    +1.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          48.7         0.9           1.2       2.1  
+1          35.9         1.0           1.5       2.5  
+2         +12.8        -0.1          -0.3      -0.4  
+
+[3 rows x 22 columns]"
+south-florida,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            21.1          36.2                    58.3      249.6   
+1    12            22.5          36.8                    61.2      244.0   
+2                  -1.4          -0.6                    -2.9       +5.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         39.7      183.2           4.6     1.8  ...           5.7   
+1     1.3         36.3      107.3           3.0     0.9  ...           4.8   
+2     0.0         +3.4      +75.9          +1.6    +0.9  ...          +0.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.8            10.7           1.8        24.3     7.1   
+1            11.5             6.3           1.8        19.6     5.8   
+2            +0.3            +4.4           0.0        +4.7    +1.3   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          60.1         1.1           0.9       2.0  
+1          48.5         1.2           1.0       2.2  
+2         +11.6        -0.1          -0.1      -0.2  
+
+[3 rows x 22 columns]"
+southern-mississippi,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            20.9          34.9                    59.7      256.2   
+1    14            22.0          38.2                    57.6      224.4   
+2                  -1.1          -3.3                    +2.1      +31.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.3         39.5      205.1           5.2     1.2  ...           6.2   
+1     1.0         36.1      118.6           3.3     1.1  ...           4.6   
+2    +1.3         +3.4      +86.5          +1.9    +0.1  ...          +1.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.6            10.9           1.9        23.4     7.8   
+1            11.1             6.9           1.2        19.1     6.4   
+2            -0.5            +4.0          +0.7        +4.3    +1.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          63.9         1.3           0.9       2.1  
+1          53.9         0.6           1.4       2.0  
+2         +10.0        +0.7          -0.5      +0.1  
+
+[3 rows x 22 columns]"
+stanford,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            22.8          32.1                    71.2      278.7   
+1    13            21.4          34.7                    61.6      253.2   
+2                  +1.4          -2.6                    +9.6      +25.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.9         39.8      210.6           5.3     2.5  ...           6.8   
+1     1.4         28.0       84.4           3.0     1.2  ...           5.4   
+2    +1.5        +11.8     +126.2          +2.3    +1.3  ...          +1.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.2            10.1           1.7        25.0     6.2   
+1            11.2             4.6           1.8        17.5     5.0   
+2            +2.0            +5.5          -0.1        +7.5    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          55.2         0.5           0.8       1.3  
+1          47.5         1.2           0.5       1.7  
+2          +7.7        -0.7          +0.3      -0.4  
+
+[3 rows x 22 columns]"
+syracuse,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            21.8          34.8                    62.4      227.8   
+1    12            21.6          34.6                    62.4      258.3   
+2                  +0.2          +0.2                     0.0      -30.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.9         33.0      120.4           3.6     0.8  ...           5.1   
+1     1.8         36.3      128.2           3.5     1.3  ...           5.4   
+2    +0.1         -3.3       -7.8          +0.1    -0.5  ...          -0.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.1             6.6           1.3        19.0     6.6   
+1            10.9             7.9           2.3        21.2     7.0   
+2            +0.2            -1.3          -1.0        -2.2    -0.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          62.8         0.8           0.8       1.6  
+1          58.9         0.9           0.8       1.8  
+2          +3.9        -0.1           0.0      -0.2  
+
+[3 rows x 22 columns]"
+temple,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13             8.9          15.2                    58.6      126.8   
+1    13            17.1          29.8                    57.4      187.8   
+2                  -8.2         -14.6                    +1.2      -61.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.8         48.9      256.5           5.2     2.9  ...           6.0   
+1     1.0         34.0      123.9           3.6     0.8  ...           4.9   
+2    -0.2        +14.9     +132.6          +1.6    +2.1  ...          +1.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             5.8            11.7           1.3        18.8     5.2   
+1             8.6             7.1           0.8        16.5     4.6   
+2            -2.8            +4.6          +0.5        +2.3    +0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.1         0.6           0.3       0.9  
+1          42.2         0.5           1.2       1.6  
+2          +0.9        +0.1          -0.9      -0.7  
+
+[3 rows x 22 columns]"
+tennessee,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            18.6          33.3                    55.8      242.6   
+1    12            14.8          25.6                    58.0      177.8   
+2                  +3.8          +7.7                    -2.2      +64.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         32.7       90.1           2.8     0.9  ...           5.0   
+1     1.2         37.1      162.7           4.4     1.4  ...           5.4   
+2    +0.3         -4.4      -72.6          -1.6    -0.5  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.5             6.1           1.5        18.1     5.8   
+1             7.6             8.3           1.3        17.3     6.5   
+2            +2.9            -2.2          +0.2        +0.8    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          46.8         0.5           1.0       1.5  
+1          54.8         0.8           0.8       1.5  
+2          -8.0        -0.3          +0.2       0.0  
+
+[3 rows x 22 columns]"
+texas,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            15.9          27.5                    58.0      189.9   
+1    13            19.8          35.1                    56.6      209.8   
+2                  -3.9          -7.6                    +1.4      -19.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         45.3      202.6           4.5     1.8  ...           5.4   
+1     1.0         31.5       96.2           3.1     1.2  ...           4.6   
+2    +0.2        +13.8     +106.4          +1.4    +0.6  ...          +0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.8            11.2           1.2        20.2     6.5   
+1            10.2             5.5           2.1        17.7     5.3   
+2            -2.4            +5.7          -0.9        +2.5    +1.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          55.5         0.8           1.2       2.0  
+1          49.4         1.1           0.9       2.0  
+2          +6.1        -0.3          +0.3       0.0  
+
+[3 rows x 22 columns]"
+texas-am,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            25.5          41.3                    61.6      291.1   
+1    13            24.5          39.3                    62.4      276.3   
+2                  +1.0          +2.0                    -0.8      +14.8   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.2         39.0      199.2           5.1     2.2  ...           6.1   
+1     1.5         39.1      101.8           2.6     1.9  ...           4.8   
+2    +0.7         -0.1      +97.4          +2.5    +0.3  ...          +1.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            14.5            10.3           1.7        26.5     7.0   
+1            11.8             8.2           2.2        22.1     7.5   
+2            +2.7            +2.1          -0.5        +4.4    -0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          65.8         0.7           1.2       1.8  
+1          57.4         0.6           0.5       1.2  
+2          +8.4        +0.1          +0.7      +0.6  
+
+[3 rows x 22 columns]"
+texas-christian,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            17.8          26.9                    66.0      231.6   
+1    13            18.0          31.5                    57.2      223.6   
+2                  -0.2          -4.6                    +8.8       +8.0   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.9         40.9      208.6           5.1     2.9  ...           6.5   
+1     1.8         35.2      123.8           3.5     0.5  ...           5.2   
+2    +0.1         +5.7      +84.8          +1.6    +2.4  ...          +1.3   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.8            10.3           1.6        21.7     5.5   
+1             9.9             6.1           1.8        17.8     6.3   
+2            -0.1            +4.2          -0.2        +3.9    -0.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          52.8         1.1           0.5       1.6  
+1          55.6         1.0           0.8       1.8  
+2          -2.8        +0.1          -0.3      -0.2  
+
+[3 rows x 22 columns]"
+texas-tech,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            34.1          50.0                    68.2      345.4   
+1    12            15.8          26.2                    60.5      226.8   
+2                 +18.3         +23.8                    +7.7     +118.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.6         32.6      125.2           3.8     1.7  ...           5.7   
+1     2.0         49.2      258.8           5.3     2.8  ...           6.4   
+2    +0.6        -16.6     -133.6          -1.5    -1.1  ...          -0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            16.0             8.6           1.6        26.2     7.7   
+1             9.4            13.3           2.0        24.7     7.1   
+2            +6.6            -4.7          -0.4        +1.5    +0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          64.8         0.7           0.8       1.5  
+1          60.7         1.2           0.4       1.6  
+2          +4.1        -0.5          +0.4      -0.1  
+
+[3 rows x 22 columns]"
+toledo,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            22.4          32.7                    68.5      267.7   
+1    13            22.0          35.2                    62.6      268.8   
+2                  +0.4          -2.5                    +5.9       -1.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.6         42.7      213.6           5.0     2.5  ...           6.4   
+1     2.6         33.7      132.8           3.9     1.3  ...           5.8   
+2     0.0         +9.0      +80.8          +1.1    +1.2  ...          +0.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.7            10.9           1.2        23.8     7.3   
+1            11.5             7.5           2.1        21.0     5.5   
+2            +0.2            +3.4          -0.9        +2.8    +1.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          63.2         0.5           0.5       1.1  
+1          42.5         1.2           1.1       2.3  
+2         +20.7        -0.7          -0.6      -1.2  
+
+[3 rows x 22 columns]"
+troy,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            27.7          44.3                    62.5      291.3   
+1    12            20.3          32.5                    62.6      261.4   
+2                  +7.4         +11.8                    -0.1      +29.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         28.0       88.7           3.2     1.0  ...           5.3   
+1     1.9         44.8      203.6           4.5     2.1  ...           6.0   
+2    -0.1        -16.8     -114.9          -1.3    -1.1  ...          -0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            13.1             5.3           1.3        19.8     6.7   
+1            11.1            10.1           1.4        22.6     5.0   
+2            +2.0            -4.8          -0.1        -2.8    +1.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          53.0         1.3           1.3       2.6  
+1          42.2         0.9           0.7       1.6  
+2         +10.8        +0.4          +0.6      +1.0  
+
+[3 rows x 22 columns]"
+tulane,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.1          35.5                    53.8      214.0   
+1    13            20.0          32.5                    61.6      245.4   
+2                  -0.9          +3.0                    -7.8      -31.4   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         33.0      126.3           3.8     1.3  ...           5.0   
+1     1.5         35.9      164.9           4.6     2.8  ...           6.0   
+2    -0.5         -2.9      -38.6          -0.8    -1.5  ...          -1.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.5             6.8           1.2        17.5     5.7   
+1            10.8             8.8           1.2        20.9     4.9   
+2            -1.3            -2.0           0.0        -3.4    +0.8   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          49.8         0.8           1.2       2.0  
+1          39.9         0.5           0.9       1.5  
+2          +9.9        +0.3          +0.3      +0.5  
+
+[3 rows x 22 columns]"
+tulsa,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.7          32.4                    60.8      248.7   
+1    13            23.6          39.7                    59.5      286.3   
+2                  -3.9          -7.3                    +1.3      -37.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.4         40.1      191.7           4.8     1.5  ...           6.1   
+1     1.9         39.2      128.5           3.3     1.5  ...           5.3   
+2    +0.5         +0.9      +63.2          +1.5     0.0  ...          +0.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.2             9.5           1.3        22.1     4.0   
+1            12.8             7.8           1.5        22.1     5.4   
+2            -1.6            +1.7          -0.2         0.0    -1.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          35.8         1.3           1.3       2.6  
+1          50.4         0.8           1.4       2.2  
+2         -14.6        +0.5          -0.1      +0.4  
+
+[3 rows x 22 columns]"
+alabama-birmingham,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            20.5          36.7                    55.9      234.6   
+1    12            23.8          33.6                    71.0      282.3   
+2                  -3.3          +3.1                   -15.1      -47.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.0         33.5      129.4           3.9     1.1  ...           5.2   
+1     2.2         38.8      203.3           5.2     2.2  ...           6.7   
+2    -1.2         -5.3      -73.9          -1.3    -1.1  ...          -1.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.3             7.2           1.7        20.2     5.0   
+1            13.3            11.3           1.4        25.9     6.0   
+2            -2.0            -4.1          +0.3        -5.7    -1.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.6         0.9           1.3       2.2  
+1          54.1         1.0           0.8       1.8  
+2         -10.5        -0.1          +0.5      +0.4  
+
+[3 rows x 22 columns]"
+central-florida,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            19.6          28.8                    67.9      238.0   
+1    12            17.3          32.1                    54.0      194.5   
+2                  +2.3          -3.3                   +13.9      +43.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.9         38.8      168.8           4.3     2.3  ...           6.0   
+1     1.0         28.9      108.8           3.8     0.8  ...           5.0   
+2    -0.1         +9.9      +60.0          +0.5    +1.5  ...          +1.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.7             9.4           0.9        21.0     5.7   
+1             8.6             6.0           1.1        15.7     4.3   
+2            +2.1            +3.4          -0.2        +5.3    +1.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          48.9         0.8           0.7       1.5  
+1          34.3         0.5           0.8       1.3  
+2         +14.6        +0.3          -0.1      +0.2  
+
+[3 rows x 22 columns]"
+ucla,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            13.8          24.7                    55.8      198.3   
+1    14            21.3          33.6                    63.3      226.6   
+2                  -7.5          -8.9                    -7.5      -28.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         39.4      178.4           4.5     1.6  ...           5.9   
+1     2.0         37.0      190.6           5.2     1.9  ...           5.9   
+2    -0.7         +2.4      -12.2          -0.7    -0.3  ...           0.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             8.5             8.5           1.6        18.6     6.6   
+1            10.8             9.9           1.6        22.3     5.7   
+2            -2.3            -1.4           0.0        -3.7    +0.9   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          59.0         1.2           0.6       1.9  
+1          54.4         0.5           1.0       1.5  
+2          +4.6        +0.7          -0.4      +0.4  
+
+[3 rows x 22 columns]"
+southern-california,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            25.8          37.3                    69.1      294.2   
+1    12            24.3          38.1                    63.9      263.3   
+2                  +1.5          -0.8                    +5.2      +30.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     3.3         32.7      162.6           5.0     1.0  ...           6.5   
+1     1.4         30.8      111.4           3.6     1.4  ...           5.4   
+2    +1.9         +1.9      +51.2          +1.4    -0.4  ...          +1.1   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            12.9             9.3           2.4        24.6     5.9   
+1            14.2             6.3           1.1        21.6     7.3   
+2            -1.3            +3.0          +1.3        +3.0    -1.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          50.0         0.9           0.6       1.5  
+1          61.2         0.7           0.8       1.4  
+2         -11.2        +0.2          -0.2      +0.1  
+
+[3 rows x 22 columns]"
+utah,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            14.5          25.7                    56.3      173.2   
+1    13            20.0          35.7                    56.0      237.4   
+2                  -5.5         -10.0                    +0.3      -64.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         36.3      137.6           3.8     1.2  ...           5.0   
+1     1.4         35.0      113.5           3.2     0.5  ...           5.0   
+2    +0.1         +1.3      +24.1          +0.6    +0.7  ...           0.0   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.2             7.4           1.8        16.4     5.7   
+1            11.0             6.1           2.2        19.3     7.7   
+2            -3.8            +1.3          -0.4        -2.9    -2.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          51.7         1.0           0.8       1.8  
+1          64.4         1.1           1.5       2.5  
+2         -12.7        -0.1          -0.7      -0.7  
+
+[3 rows x 22 columns]"
+utah-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            14.3          22.3                    64.1      174.6   
+1    13            22.1          36.5                    60.5      238.5   
+2                  -7.8         -14.2                    +3.6      -63.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.8         47.9      282.7           5.9     2.8  ...           6.5   
+1     1.3         36.9      127.8           3.5     1.7  ...           5.0   
+2    +0.5        +11.0     +154.9          +2.4    +1.1  ...          +1.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.5            12.5           1.0        21.0     6.3   
+1            11.2             7.9           2.8        21.8     5.9   
+2            -3.7            +4.6          -1.8        -0.8    +0.4   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          60.2         1.4           0.5       1.8  
+1          50.2         0.8           0.3       1.2  
+2         +10.0        +0.6          +0.2      +0.6  
+
+[3 rows x 22 columns]"
+texas-el-paso,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            18.8          33.3                    56.4      225.6   
+1    12            20.2          33.7                    59.9      251.7   
+2                  -1.4          -0.4                    -3.5      -26.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         34.2      154.9           4.5     2.0  ...           5.6   
+1     1.3         36.2      189.8           5.2     2.0  ...           6.3   
+2    -0.1         -2.0      -34.9          -0.7     0.0  ...          -0.7   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.2             8.0           1.7        19.8     4.6   
+1            10.8             9.7           1.2        21.7     5.3   
+2            -0.6            -1.7          +0.5        -1.9    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          41.0         0.8           1.4       2.3  
+1          48.0         0.6           1.0       1.6  
+2          -7.0        +0.2          +0.4      +0.7  
+
+[3 rows x 22 columns]"
+vanderbilt,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            13.8          26.6                    51.7      174.6   
+1    13            16.6          30.6                    54.3      192.2   
+2                  -2.8          -4.0                    -2.6      -17.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.2         38.2      164.5           4.3     2.0  ...           5.2   
+1     1.2         36.4      130.5           3.6     0.9  ...           4.8   
+2     0.0         +1.8      +34.0          +0.7    +1.1  ...          +0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             6.3             9.3           1.5        17.2     6.2   
+1             8.6             7.8           1.5        17.9     6.1   
+2            -2.3            +1.5           0.0        -0.7    +0.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          50.2         0.8           1.4       2.2  
+1          51.6         0.8           1.5       2.2  
+2          -1.4         0.0          -0.1       0.0  
+
+[3 rows x 22 columns]"
+virginia,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            19.6          34.1                    57.6      237.7   
+1    13            16.8          31.4                    53.7      212.2   
+2                  +2.8          +2.7                    +3.9      +25.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.3         38.2      162.1           4.2     1.4  ...           5.5   
+1     1.5         35.4      139.5           3.9     1.2  ...           5.3   
+2    -0.2         +2.8      +22.6          +0.3    +0.2  ...          +0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.5             8.5           1.0        20.9     5.3   
+1             8.7             7.1           1.5        17.3     5.2   
+2            +2.8            +1.4          -0.5        +3.6    +0.1   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          42.3         0.9           1.2       2.2  
+1          48.8         0.7           0.9       1.6  
+2          -6.5        +0.2          +0.3      +0.6  
+
+[3 rows x 22 columns]"
+virginia-tech,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            17.4          28.9                    60.0      226.1   
+1    14            14.7          29.5                    49.9      200.6   
+2                  +2.7          -0.6                   +10.1      +25.5   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.5         42.1      186.9           4.4     1.9  ...           5.8   
+1     1.1         32.3      104.1           3.2     1.1  ...           4.9   
+2    +0.4         +9.8      +82.8          +1.2    +0.8  ...          +0.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.5            10.4           1.2        21.1     5.9   
+1             8.1             6.1           1.6        15.8     3.9   
+2            +1.4            +4.3          -0.4        +5.3    +2.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          53.2         0.6           0.7       1.3  
+1          34.1         0.5           1.1       1.6  
+2         +19.1        +0.1          -0.4      -0.3  
+
+[3 rows x 22 columns]"
+wake-forest,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            21.4          35.2                    60.8      253.2   
+1    13            19.5          34.2                    57.2      227.9   
+2                  +1.9          +1.0                    +3.6      +25.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.7         35.7      114.6           3.2     1.4  ...           5.2   
+1     1.7         37.0      169.8           4.6     1.6  ...           5.6   
+2     0.0         -1.3      -55.2          -1.4    -0.2  ...          -0.4   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.2             7.8           1.2        20.2     4.8   
+1             9.2             8.9           1.7        19.8     5.4   
+2            +2.0            -1.1          -0.5        +0.4    -0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          43.5         0.3           0.6       0.9  
+1          46.2         0.6           1.0       1.6  
+2          -2.7        -0.3          -0.4      -0.7  
+
+[3 rows x 22 columns]"
+washington,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            20.5          31.2                    65.8      255.5   
+1    13            23.5          37.4                    62.8      284.6   
+2                  -3.0          -6.2                    +3.0      -29.1   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.8         34.8      154.3           4.4     1.5  ...           6.2   
+1     1.7         33.2      168.7           5.1     2.5  ...           6.4   
+2    +1.1         +1.6      -14.4          -0.7    -1.0  ...          -0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            11.4             7.9           1.8        21.1     6.0   
+1            12.8             8.3           1.7        22.8     6.9   
+2            -1.4            -0.4          +0.1        -1.7    -0.9   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          59.5         0.7           1.0       1.7  
+1          55.4         1.0           0.8       1.8  
+2          +4.1        -0.3          +0.2      -0.1  
+
+[3 rows x 22 columns]"
+washington-state,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            24.8          41.0                    60.4      322.3   
+1    12            19.2          29.8                    64.2      252.4   
+2                  +5.6         +11.2                    -3.8      +69.9   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.5         32.7      100.2           3.1     1.1  ...           5.7   
+1     2.0         35.8      157.2           4.4     1.6  ...           6.2   
+2    +0.5         -3.1      -57.0          -1.3    -0.5  ...          -0.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            14.5             6.3           2.4        23.3     6.5   
+1            10.9             7.0           1.7        19.6     8.1   
+2            +3.6            -0.7          +0.7        +3.7    -1.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          61.3         0.8           1.0       1.8  
+1          69.1         0.8           0.7       1.4  
+2          -7.8         0.0          +0.3      +0.4  
+
+[3 rows x 22 columns]"
+west-virginia,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            27.2          41.7                    65.1      346.8   
+1    13            19.6          34.5                    56.9      203.5   
+2                  +7.6          +7.2                    +8.2     +143.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.5         32.1      122.7           3.8     1.9  ...           6.4   
+1     1.2         36.3      144.8           4.0     1.6  ...           4.9   
+2    +1.3         -4.2      -22.1          -0.2    +0.3  ...          +1.5   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            14.4             7.0           1.8        23.2     6.2   
+1             9.9             7.2           1.4        18.5     6.7   
+2            +4.5            -0.2          +0.4        +4.7    -0.5   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          53.6         1.0           0.7       1.7  
+1          55.6         0.7           1.1       1.8  
+2          -2.0        +0.3          -0.4      -0.1  
+
+[3 rows x 22 columns]"
+western-kentucky,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    12            14.0          25.1                    55.8      167.3   
+1    12            18.2          32.7                    55.6      238.9   
+2                  -4.2          -7.6                    +0.2      -71.6   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     0.9         45.3      181.6           4.0     2.1  ...           5.0   
+1     1.7         30.8      134.8           4.4     1.5  ...           5.9   
+2    -0.8        +14.5      +46.8          -0.4    +0.6  ...          -0.9   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             7.6             9.0           1.6        18.2     7.4   
+1            10.7             6.3           1.9        18.8     7.2   
+2            -3.1            +2.7          -0.3        -0.6    +0.2   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          62.3         0.8           1.1       1.9  
+1          62.6         0.6           1.1       1.7  
+2          -0.3        +0.2           0.0      +0.2  
+
+[3 rows x 22 columns]"
+western-michigan,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            28.4          42.6                    66.6      337.3   
+1    13            18.9          30.5                    62.0      215.0   
+2                  +9.5         +12.1                    +4.6     +122.3   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     3.1         30.1      121.2           4.0     1.3  ...           6.3   
+1     1.4         40.7      219.7           5.4     1.8  ...           6.1   
+2    +1.7        -10.6      -98.5          -1.4    -0.5  ...          +0.2   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            15.7             6.6           2.3        24.6     7.1   
+1             9.9            10.7           1.8        22.4     6.5   
+2            +5.8            -4.1          +0.5        +2.2    +0.6   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          56.2         1.4           1.2       2.6  
+1          54.5         1.5           0.9       2.4  
+2          +1.7        -0.1          +0.3      +0.2  
+
+[3 rows x 22 columns]"
+wisconsin,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    14            16.6          23.4                    71.0      234.3   
+1    14            15.3          25.1                    60.8      163.6   
+2                  +1.3          -1.7                   +10.2      +70.7   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     2.4         43.5      235.6           5.4     3.4  ...           7.0   
+1     1.1         35.6      152.8           4.3     1.2  ...           5.2   
+2    +1.3         +7.9      +82.8          +1.1    +2.2  ...          +1.8   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0            10.3            11.7           1.3        23.3     4.8   
+1             7.7             7.2           0.9        15.9     5.5   
+2            +2.6            +4.5          +0.4        +7.4    -0.7   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          38.9         0.4           0.4       0.7  
+1          47.1         0.7           1.1       1.9  
+2          -8.2        -0.3          -0.7      -1.2  
+
+[3 rows x 22 columns]"
+wyoming,"  Games pass_completion pass_attempts pass_completion_percent pass_yards  \
+0    13            20.0          33.1                    60.5      206.8   
+1    13            15.5          25.4                    60.9      199.6   
+2                  +4.5          +7.7                    -0.4       +7.2   
+
+  pass_td rush_attempt rush_yards avg_rush_yard rush_td  ... yard_per_play  \
+0     1.6         37.3      181.6           4.9     1.5  ...           5.5   
+1     1.4         45.5      232.0           5.1     2.2  ...           6.1   
+2    +0.2         -8.2      -50.4          -0.2    -0.7  ...          -0.6   
+
+  pass_first_down rush_first_down penalty_first first_downs penalty  \
+0             9.5             8.7           1.4        19.5     4.8   
+1             9.1            11.8           1.2        22.2     6.8   
+2            +0.4            -3.1          +0.2        -2.7    -2.0   
+
+  penalty_yards lost_fumble interceptions turnovers  
+0          46.4         0.6           0.8       1.5  
+1          60.0         1.4           1.0       2.4  
+2         -13.6        -0.8          -0.2      -0.9  
+
+[3 rows x 22 columns]"
